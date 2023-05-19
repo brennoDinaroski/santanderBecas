@@ -10,3 +10,4 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 ## Gravando mudanças no repositório
 * uso do comando git restore
 * comando git push
+* mais um teste de alteração pra confirmar se funciona o push
