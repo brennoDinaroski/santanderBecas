@@ -11,3 +11,4 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 * uso do comando git restore
 * comando git push
 * mais um teste de alteração pra confirmar se funciona o push
+* comando git pull
